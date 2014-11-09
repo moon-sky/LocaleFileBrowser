@@ -10,7 +10,6 @@ import com.tracyzhang.localefilebrowser.util.TimeUtils;
 import android.text.TextUtils;
 
 /***
- * 符合博校个性化需求的file
  * 
  * @author zhanglei
  *
