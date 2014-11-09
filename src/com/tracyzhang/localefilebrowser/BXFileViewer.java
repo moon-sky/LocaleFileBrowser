@@ -20,8 +20,6 @@ import android.widget.Toast;
 
 /**
  * 单个文件查看器
- * 1、未下载的，提供下载、取消下载
- * 2、已下载的根据分类（图片：直接预览，其他文件：提供打开方式）
  * 
  * @author zhanglei
  *
